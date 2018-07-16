@@ -1,0 +1,13 @@
+expiringdict
+flask
+flask_login
+flask_sqlalchemy
+gunicorn
+lxml
+pandas
+pexpect
+pika
+PyMySQL
+requests
+sqlalchemy
+werkzeug
